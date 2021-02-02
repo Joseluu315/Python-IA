@@ -1,4 +1,4 @@
-# IA
+# IA Project
 Initial IA Project "Casel"
 
 Dependencies:
